@@ -1,2 +1,3 @@
-# Test
-test repo for git course. 
+#Example Repository 
+
+Hello World! 
